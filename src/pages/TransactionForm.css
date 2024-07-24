@@ -1,0 +1,17 @@
+.transaction-form-container {
+  padding: 24px;
+  background: #f0f2f5;
+}
+
+.transaction-form {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.transaction-form-button {
+  width: 100%;
+}

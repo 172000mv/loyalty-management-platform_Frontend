@@ -1,0 +1,25 @@
+.member-operation-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 24px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .member-operation-container h1 {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  
+  .member-operation-container .ant-form-item {
+    margin-bottom: 16px;
+  }
+  
+  .member-operation-container .ant-form-item-label > label {
+    font-weight: bold;
+  }
+  
+  .member-operation-container .ant-btn-primary {
+    width: 100%;
+  }
+  

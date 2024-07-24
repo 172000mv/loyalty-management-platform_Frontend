@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+}
+
+.logo_inside {
+  display: flex;
+  align-items: center;
+}
+
+.mobilytix {
+  color: red;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.rewards {
+  color: black;
+  font-size: 24px;
+  margin-left: 8px;
+  font-weight: bold;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.username {
+  margin-left: 8px;
+  font-size: 16px;
+  margin-right: 10px; /* Add some margin to the right for spacing */
+}
+
+.logout-button {
+  /* Add styles to adjust the button size and appearance */
+  font-size: 14px;
+  padding: 0 10px;
+  height: auto;
+  line-height: normal;
+}
